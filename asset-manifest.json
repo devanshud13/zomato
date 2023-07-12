@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/devanshud13/zomato.git/static/css/main.e80b6759.css",
-    "main.js": "/devanshud13/zomato.git/static/js/main.ca29dae7.js",
-    "static/js/787.9c166d28.chunk.js": "/devanshud13/zomato.git/static/js/787.9c166d28.chunk.js",
-    "index.html": "/devanshud13/zomato.git/index.html",
-    "main.e80b6759.css.map": "/devanshud13/zomato.git/static/css/main.e80b6759.css.map",
-    "main.ca29dae7.js.map": "/devanshud13/zomato.git/static/js/main.ca29dae7.js.map",
-    "787.9c166d28.chunk.js.map": "/devanshud13/zomato.git/static/js/787.9c166d28.chunk.js.map"
+    "main.css": "/devanshud13/zomato/static/css/main.e80b6759.css",
+    "main.js": "/devanshud13/zomato/static/js/main.1198538c.js",
+    "static/js/787.9c166d28.chunk.js": "/devanshud13/zomato/static/js/787.9c166d28.chunk.js",
+    "index.html": "/devanshud13/zomato/index.html",
+    "main.e80b6759.css.map": "/devanshud13/zomato/static/css/main.e80b6759.css.map",
+    "main.1198538c.js.map": "/devanshud13/zomato/static/js/main.1198538c.js.map",
+    "787.9c166d28.chunk.js.map": "/devanshud13/zomato/static/js/787.9c166d28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e80b6759.css",
-    "static/js/main.ca29dae7.js"
+    "static/js/main.1198538c.js"
   ]
 }
